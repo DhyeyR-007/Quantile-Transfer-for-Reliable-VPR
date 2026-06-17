@@ -23,7 +23,7 @@
 
 ## 🎉 Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026!
 
-We are happy to announce that this paper has been accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026**.
+We are happy to announce that our paper has been accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026**.
 
 
 
