@@ -1,7 +1,9 @@
 <div align="center">
 
 
-<img width="291" height="203" alt="image" src="https://github.com/user-attachments/assets/4a114805-997d-46fa-8b3a-e27f0813afa1" />
+
+
+<img width="220" height="150" alt="image" src="https://github.com/user-attachments/assets/26d66cd9-8cb3-47d2-a4bd-78fb18b5764a" />
 
   
 # Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition
