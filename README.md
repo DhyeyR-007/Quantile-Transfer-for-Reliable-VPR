@@ -21,7 +21,7 @@
 
 ## News
 
-- 🎉🎉🎉 **[Jun 2026]** Paper accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026** — Pittsburgh, PA, USA · Sep 27 – Oct 1, 2026!
+- 🎉🎉🎉 **[16th Jun 2026]** Paper accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026** — Pittsburgh, PA, USA · Sep 27 – Oct 1, 2026!
 
 
 
