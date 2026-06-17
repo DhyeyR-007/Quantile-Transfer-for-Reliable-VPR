@@ -18,16 +18,32 @@
 
 </div>
 
----
 
-## 🎉 Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026!
+## News
 
-We are happy to announce that our paper has been accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026**.
+- 🎉🎉🎉 **[Jun 2026]** Paper accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026** — Pittsburgh, PA, USA · Sep 27 – Oct 1, 2026!
+
+
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{rajani2026quantiletransfer,
+  author    = {Rajani, Dhyey Manish and Milford, Michael and Fischer, Tobias},
+  title     = {Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition},
+  booktitle = {2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2026},
+}
+```
+
 
 
 
 <!-- ## News
 - 🎉 **[Jun 2026]** Paper accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026**!-->
+
 ---
 
 ## 🚧 Code Coming Soon
@@ -47,18 +63,6 @@ Experiments with seven state-of-the-art VPR techniques across five benchmark dat
 The method eliminates manual tuning by adapting to new environments and generalising across operating conditions. 
 Our code will be released upon acceptance.
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{rajani2026quantiletransfer,
-  author    = {Rajani, Dhyey Manish and Milford, Michael and Fischer, Tobias},
-  title     = {Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition},
-  booktitle = {2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year      = {2026},
-}
-```
 
 
 
