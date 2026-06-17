@@ -9,7 +9,7 @@
 # Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition
 
 
-**[Dhyey Manish Rajani](https://www.linkedin.com/in/dhyey-rajani-1629881ab/), [Michael Milford](https://www.linkedin.com/in/michaeljmilford/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BhCXmZ3wRSzCQ%2BxHEO3SgTg%3D%3D), [Tobias Fischer](https://www.linkedin.com/in/tobiasrobotics/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bv0dYsXs%2FRySVuLzdmiKoqg%3D%3D)**
+**[Dhyey Manish Rajani](https://www.linkedin.com/in/dhyey-rajani-1629881ab/), [Michael Milford](https://www.linkedin.com/in/michaeljmilford/), [Tobias Fischer](https://www.linkedin.com/in/tobiasrobotics/)**
 
 *QUT Centre for Robotics* <br>
 *School of Electrical Engineering and Robotics* <br>
