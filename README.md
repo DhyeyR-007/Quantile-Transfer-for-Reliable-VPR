@@ -15,7 +15,7 @@
 *School of Electrical Engineering and Robotics* <br>
 *Queensland University of Technology, Brisbane, QLD 4000, Australia*
 
-[Paper (arXiv)](https://arxiv.org/abs/2602.04401)
+[Pre-print (arXiv)](https://arxiv.org/abs/2602.04401)
 
 </div>
 
