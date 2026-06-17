@@ -2,7 +2,7 @@
 
 
 
-<img width="220" height="150" alt="IROS 2026" src="assets/iros2026.png" />
+<img width="220" height="150" alt="IROS 2026" src="assets/iros2026_cover.png" />
 
   
 # Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition
