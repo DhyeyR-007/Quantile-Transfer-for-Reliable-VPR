@@ -1,4 +1,8 @@
 <div align="center">
+
+
+<img width="291" height="203" alt="image" src="https://github.com/user-attachments/assets/4a114805-997d-46fa-8b3a-e27f0813afa1" />
+
   
 # Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition
 
@@ -19,6 +23,10 @@
 
 We are happy to announce that this paper has been accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026**.
 
+
+
+<!-- ## News
+- 🎉 **[Jun 2026]** Paper accepted to the **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026**!-->
 ---
 
 ## 🚧 Code Coming Soon
